@@ -1,0 +1,382 @@
+[
+  {
+    "title": "Easy Alfredo Pasta",
+    "taste": "creamy and yummy",
+    "cuisine": "Italian",
+    "prep_time": 15,
+    "description": "A quick and easy Alfredo pasta recipe that's perfect for a weeknight meal.  Can be customized with added protein like chicken.",
+    "ingredients": [
+      {
+        "item": "Fettuccine pasta",
+        "quantity": "250g"
+      },
+      {
+        "item": "Butter",
+        "quantity": "2 tbsp"
+      },
+      {
+        "item": "Minced garlic",
+        "quantity": "2 cloves"
+      },
+      {
+        "item": "Heavy cream",
+        "quantity": "240ml"
+      },
+      {
+        "item": "Milk",
+        "quantity": "240ml (Alternative to cream)"
+      },
+      {
+        "item": "Parmesan cheese",
+        "quantity": "50g (or to taste)"
+      },
+      {
+        "item": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "item": "Black pepper",
+        "quantity": "to taste"
+      },
+      {
+        "item": "Parsley",
+        "quantity": "a sprinkle (optional)"
+      },
+      {
+        "item": "Shredded chicken",
+        "quantity": "170-340g (optional, leftover)"
+      }
+    ],
+    "instructions": [
+      "Boil fettuccine for 8-10 minutes (or according to package directions).",
+      "Melt butter in a pan, add minced garlic.",
+      "Stir in heavy cream (or milk), parmesan cheese, salt, and pepper.",
+      "Add shredded chicken (if using).",
+      "Simmer until sauce thickens.",
+      "Add cooked pasta and toss to combine.",
+      "Garnish with parsley (optional)."
+    ]
+  },
+  {
+    "title": "Easy Chocolate Cake",
+    "taste": "Chocolate",
+    "cuisine": "American",
+    "prep_time": 0,
+    "description": "An easy chocolate cake recipe.",
+    "ingredients": [
+      {
+        "name": "butter",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "semisweet chocolate",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "sugar",
+        "quantity": "1 1/2 cups"
+      },
+      {
+        "name": "flour",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "cocoa powder",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "baking powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "salt",
+        "quantity": "1/2 tsp"
+      },
+      {
+        "name": "buttermilk",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "vanilla extract",
+        "quantity": "1 tsp"
+      }
+    ],
+    "instructions": [
+      "Melt 1 cup butter and 1 cup semisweet chocolate together.",
+      "In a separate bowl, whisk 1 1/2 cups sugar, 1 cup flour, 1 cup cocoa powder, 1 tsp baking powder, and 1/2 tsp salt.",
+      "Add 1 cup buttermilk and 1 tsp vanilla extract to the melted chocolate.",
+      "Gradually add the dry ingredients to the wet ingredients, mixing until just combined.",
+      "Pour into a greased and floured 9x13 inch pan.",
+      "Bake at 350°F for 30-35 minutes.",
+      "Let cool completely before frosting."
+    ]
+  },
+  {
+    "title": "Summer Salad",
+    "taste": "Fresh, tangy",
+    "cuisine": "Mediterranean",
+    "prep_time": 10,
+    "description": "A simple and refreshing summer salad.",
+    "ingredients": [
+      {
+        "name": "Cucumber",
+        "quantity": "100g",
+        "unit": "g"
+      },
+      {
+        "name": "Tomatoes",
+        "quantity": "150g",
+        "unit": "g"
+      },
+      {
+        "name": "Red Onion",
+        "quantity": "50g",
+        "unit": "g"
+      },
+      {
+        "name": "Bell Peppers",
+        "quantity": "100g",
+        "unit": "g"
+      },
+      {
+        "name": "Feta Cheese",
+        "quantity": "50g",
+        "unit": "g"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": "15ml",
+        "unit": "ml"
+      },
+      {
+        "name": "Red Wine Vinegar",
+        "quantity": "10ml",
+        "unit": "ml"
+      },
+      {
+        "name": "Salt",
+        "quantity": "2g",
+        "unit": "g"
+      },
+      {
+        "name": "Pepper",
+        "quantity": "to taste",
+        "unit": null
+      }
+    ],
+    "instructions": "Chop cucumbers, tomatoes, red onion, and bell peppers. Crumble feta cheese on top. Drizzle with olive oil, red wine vinegar, salt, and pepper. Toss and enjoy!"
+  },
+  {
+    "title": "Weekend Pancakes",
+    "taste": "Sweet",
+    "cuisine": "American",
+    "prep_time": 0,
+    "description": "Fluffy pancakes perfect for a weekend breakfast.",
+    "ingredients": [
+      {
+        "item": "flour",
+        "quantity": "1 cup"
+      },
+      {
+        "item": "sugar",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "baking powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "item": "salt",
+        "quantity": "a pinch"
+      },
+      {
+        "item": "egg",
+        "quantity": "1"
+      },
+      {
+        "item": "milk",
+        "quantity": "1 cup"
+      },
+      {
+        "item": "melted butter",
+        "quantity": "1 tbsp"
+      },
+      {
+        "item": "syrup",
+        "quantity": "to taste"
+      },
+      {
+        "item": "fruit",
+        "quantity": "to taste"
+      },
+      {
+        "item": "whipped cream",
+        "quantity": "to taste"
+      }
+    ],
+    "instructions": [
+      "Mix flour, sugar, baking powder, and salt in a bowl.",
+      "In a separate bowl, whisk egg, milk, and melted butter.",
+      "Combine wet and dry ingredients; mix until just combined.",
+      "Heat a lightly oiled griddle over medium heat.",
+      "Pour batter onto the griddle in circles.",
+      "Cook until bubbles form and edges are set.",
+      "Flip and cook until golden brown.",
+      "Top with syrup, fruit, whipped cream."
+    ]
+  },
+  {
+    "title": "Quick & Easy Ramen",
+    "taste": "Savory",
+    "cuisine": "Asian",
+    "prep_time": 15,
+    "description": "A quick and easy ramen recipe with sautéed vegetables.",
+    "ingredients": [
+      {
+        "item": "ramen noodles",
+        "quantity": "1 package"
+      },
+      {
+        "item": "olive oil or vegetable oil",
+        "quantity": "1 tablespoon"
+      },
+      {
+        "item": "onion",
+        "quantity": "1/4, chopped"
+      },
+      {
+        "item": "garlic",
+        "quantity": "2 cloves, minced"
+      },
+      {
+        "item": "carrots",
+        "quantity": "1/2 cup, chopped"
+      },
+      {
+        "item": "mushrooms",
+        "quantity": "1/4 cup, sliced"
+      },
+      {
+        "item": "green onions",
+        "quantity": "1/4 cup, chopped"
+      },
+      {
+        "item": "soy sauce",
+        "quantity": "to taste"
+      },
+      {
+        "item": "sriracha",
+        "quantity": "to taste"
+      },
+      {
+        "item": "soft-boiled egg",
+        "quantity": "1 (optional)"
+      }
+    ],
+    "instructions": [
+      "Bring a pot of water to a boil. Add ramen noodles and cook according to package directions.",
+      "While noodles cook, heat oil in a skillet over medium heat. Add onion and garlic and sauté until softened, about 5 minutes.",
+      "Add carrots and mushrooms to the skillet and cook until tender-crisp, about 5-7 minutes.",
+      "Drain noodles and add them to the skillet with the vegetables.",
+      "Pour in ramen broth and add soy sauce to taste.",
+      "Garnish with green onions, sriracha, and a soft-boiled egg (if using). Serve immediately."
+    ]
+  },
+  {
+    "title": "Scrambled Eggs",
+    "taste": "Savory",
+    "cuisine": "American",
+    "prep_time": 5,
+    "description": "A simple recipe for delicious scrambled eggs.",
+    "ingredients": [
+      {
+        "item": "butter",
+        "quantity": "1 pat"
+      },
+      {
+        "item": "eggs",
+        "quantity": "2-3"
+      },
+      {
+        "item": "milk",
+        "quantity": "1 splash"
+      },
+      {
+        "item": "salt",
+        "quantity": "a pinch"
+      },
+      {
+        "item": "pepper",
+        "quantity": "a pinch"
+      },
+      {
+        "item": "chives",
+        "quantity": "optional, chopped"
+      },
+      {
+        "item": "toast",
+        "quantity": "as needed"
+      },
+      {
+        "item": "avocado",
+        "quantity": "as needed"
+      },
+      {
+        "item": "fruit",
+        "quantity": "as needed"
+      }
+    ],
+    "instructions": [
+      "Melt butter in a nonstick pan.",
+      "Crack in eggs and whisk.",
+      "Add milk, salt, pepper, and chives (if using).",
+      "Cook over low heat, stirring constantly, until desired doneness.",
+      "Serve with toast, avocado, and fruit."
+    ]
+  },
+  {
+    "title": "Seared Steak with Roasted Potatoes and Salad",
+    "taste": "Savory",
+    "cuisine": "American",
+    "prep_time": 0,
+    "description": "A classic seared steak recipe, cooked to medium-rare and served with roasted potatoes and a side salad.",
+    "ingredients": [
+      "1 steak (approx. 200g)",
+      "Salt (to taste)",
+      "Pepper (to taste)",
+      "Garlic powder (1 tsp)",
+      "Potatoes (500g)",
+      "Salad ingredients (quantity varies)"
+    ],
+    "instructions": [
+      "Pat steak dry",
+      "Season steak with salt, pepper, and garlic powder",
+      "Heat cast iron skillet over high heat",
+      "Sear steak for 2-3 minutes per side",
+      "Let steak rest for a few minutes",
+      "Slice and serve with roasted potatoes and a side salad"
+    ]
+  },
+  {
+    "title": "Homemade Tiramisu",
+    "taste": "Sweet",
+    "cuisine": "Italian",
+    "prep_time": 0,
+    "description": "A surprisingly easy homemade tiramisu recipe.",
+    "ingredients": [
+      "Ladyfingers (as needed)",
+      "Strong coffee (as needed)",
+      "Mascarpone cheese (250g)",
+      "Sugar (50g)",
+      "Vanilla extract (1 tsp)",
+      "Cocoa powder (for dusting)"
+    ],
+    "instructions": [
+      "Soak ladyfingers in strong coffee.",
+      "Whisk together mascarpone cheese, sugar, and vanilla extract.",
+      "Layer ladyfingers in a dish, top with mascarpone mixture, and repeat.",
+      "Dust with cocoa powder.",
+      "Chill for at least 4 hours before serving."
+    ]
+  }
+]

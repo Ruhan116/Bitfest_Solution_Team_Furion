@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mofa's Chatbot</title>
+</head>
+<body>
+  <h1>Welcome to Mofa's Chatbot</h1>
+  
+  <!-- A simple form with a text input -->
+  <form id="chat-form">
+    <label for="user_input">Ask me anything about recipes:</label>
+    <br><br>
+    <input 
+      type="text" 
+      id="user_input" 
+      name="user_input" 
+      placeholder="I want something sweet..." 
+      style="width:300px"
+      required
+    />
+    <button type="submit">Send</button>
+  </form>
+  
+  <!-- Area to display the chatbot's response -->
+  <div id="response-area" style="margin-top:20px; border:1px solid #ccc; padding:10px;">
+    <strong>Chatbot Reply:</strong>
+    <p id="assistant_reply"></p>
+  </div>
+
+  <script>
+    document.getElementById("chat-form").addEventListener("submit", async function(event) {
+      event.preventDefault();  // Don't do a full page reload
+      
+      // Get the user_input value
+      const userInput = document.getElementById("user_input").value.trim();
+      if (!userInput) return;
+
+      // Make a POST request to /chatbot/chat
+      try {
+        const response = await fetch("/chatbot/chat", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify({ user_input: userInput })
+        });
+        
+        if (!response.ok) {
+          throw new Error("Network response was not OK");
+        }
+
+        const data = await response.json();
+        
+        // Display the chatbot reply
+        document.getElementById("assistant_reply").textContent = data.assistant;
+      } catch (error) {
+        document.getElementById("assistant_reply").textContent = "Error: " + error;
+      }
+    });
+  </script>
+</body>
+</html>
